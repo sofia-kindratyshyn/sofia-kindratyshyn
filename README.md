@@ -1,4 +1,5 @@
-💼 About Me
+###💼 About Me
+
 I'm a Junior Front-End Developer with a solid foundation in building responsive, accessible, and visually appealing websites using HTML, CSS/SASS, JavaScript, TypeScript and React. I enjoy translating design mockups into real-world applications and bringing interactivity to web interfaces.
 I’ve led and contributed to several team projects, where I took on responsibilities such as organizing tasks, implementing layouts, handling modal functionality, animations, and managing project builds with tools like Vite and GitHub.
 I'm passionate about clean, well-structured code and always eager to learn and grow. Currently, I'm deepening my skills in JavaScript, Git, and modern workflows, with plans to expand into React and TypeScript.
