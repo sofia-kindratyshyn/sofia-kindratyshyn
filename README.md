@@ -38,7 +38,7 @@ I’m passionate about **clean code**, meaningful UI, and never stop learning. C
 
 ---
 
-### 🌱 Current Goals
+###  Current Goals
 - 🔁 Practicing advanced **JS/React** patterns
 - 🧠 Learning **TypeScript** deeply
 - 🤝 Collaborating on open-source and team projects
