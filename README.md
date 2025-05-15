@@ -3,7 +3,7 @@ I'm a Junior Front-End Developer with a solid foundation in building responsive,
 I’ve led and contributed to several team projects, where I took on responsibilities such as organizing tasks, implementing layouts, handling modal functionality, animations, and managing project builds with tools like Vite and GitHub.
 I'm passionate about clean, well-structured code and always eager to learn and grow. Currently, I'm deepening my skills in JavaScript, Git, and modern workflows, with plans to expand into React and TypeScript.
 Looking forward to contributing to real-world projects, learning from experienced developers, and becoming a strong part of a development team.🚀🚀🚀
-                                                                ### 🛠 Core Technologies
+                                                    
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
