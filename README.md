@@ -1,55 +1,60 @@
-<h1 align="center" style="color:#5c4033;">🤎 Welcome to My World of Code 🤍</h1>
+# 👋 Hi there, I'm Sofia  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Junior%20Developer-b3906f?style=for-the-badge&logo=coffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loves-Clean%20UI-bca49b?style=for-the-badge&logo=palette&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_with-Passion-cdb6aa?style=for-the-badge&logo=heart&logoColor=white" />
-</p>
+🚀 **Full Stack Developer** | 🎓 Applied Mathematics Student | 🌍 Open to Collaboration  
 
----
-
-### 💼 About Me
-
-I'm a **Junior Front-End Developer** with a solid foundation in building **responsive**, **accessible**, and **visually appealing** websites using **HTML**, **CSS/SASS**, **JavaScript**, **TypeScript**, and **React**.
-
-💡 I enjoy translating design mockups into real-world apps and bringing interactivity to web interfaces.
-
-🛠️ I've taken part in team-based projects where I:
-- Built modular layouts with modern tools like **Vite** and **Parcel**
-- Implemented **modal windows**, **scroll-based animations**, and **responsive components**
-- Led task organization and ensured clean builds for deployment
-
-I’m passionate about **clean code**, meaningful UI, and never stop learning. Currently focused on sharpening my **React** & **TypeScript** skills while contributing to real-world projects and collaborating with amazing devs 🚀
+I love building **modern, responsive, and scalable web apps** with a clean UI/UX and strong backend logic.  
+Passionate about learning new technologies and creating projects that solve real-world problems.  
 
 ---
 
-### ☕ Tech Stack
+## 🙋‍♀️ About Me  
+
+- 🎓 Fourth-year student majoring in **Applied Mathematics**  
+- 💻 Currently focusing on **Full Stack Development** (React, Next.js, Node.js)  
+- ☁️ Exploring **Cloud Technologies** (Azure, GitHub Actions, CI/CD)  
+- 📈 Interested in **algorithms, optimization, and clean software architecture**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js  
+**Backend:** Node.js, Express  
+**Databases:** PostgreSQL, MongoDB, mySQL  
+**Other:** Git, GitHub, REST API  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-CEB898?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-C69C6D?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F5DEB3?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-BFA6A0?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-8B6C42?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-A47551?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parcel-CABAA9?style=for-the-badge&logo=parcel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mongodb,mysql,git,github" />
 </p>
 
 ---
 
-###  Current Goals
-- 🔁 Practicing advanced **JS/React** patterns
-- 🧠 Learning **TypeScript** deeply
-- 🤝 Collaborating on open-source and team projects
+## 🚀 Featured Projects  
+
+- [🦸 SuperHero](https://github.com/sofia-kindratyshyn/heroes-test) - Web App for storing, other interactions with SuperHeroes (React, Node.js, Express.js, PostgreSQL)
+- [⌚ WatchCharm](https://github.com/sofia-kindratyshyn/watch-project) — Website for ordering and showcasing watches (HTML, CSS)
+- [🗒️ NoteHub](https://github.com/sofia-kindratyshyn/09-auth) - Notes storage app (NextJS)
 
 ---
 
-### 📫 Let’s Connect
+## 📊 GitHub Stats  
 
-- 📧 Email: skindratyshyn@gmail.com
-- 💼 LinkedIn: [linkedin.com](www.linkedin.com/in/sofia-kindratyshyn-2378731a9)
+![](https://github-readme-stats.vercel.app/api?username=sofia-kindratyshyn&show_icons=true&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sofia-kindratyshyn&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia-kindratyshyn&layout=compact&theme=tokyonight)  
 
 ---
 
-<p align="center"><i>“Code like coffee: strong, smooth, and essential.”</i></p>
+## ⏳ Coding Activity  
+
+<!-- Requires WakaTime account  -->
+<!-- [![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@2d66b339-e97d-4caa-879b-86ecf85d72d4) -->
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sofia-kindratyshyn&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
+
+## 📬 Connect with me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sofia-kindratyshyn) 
+- 📧 Email: **skindratyshyn@gmail.com**  
